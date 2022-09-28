@@ -6,7 +6,7 @@
 	<!-- <artifactId>springboot2-webapp-jsp</artifactId>  -->
 	<artifactId>spring-azure-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 <!-- <name>springboot2-webapp-jsp</name> -->
 	<name>spring-azure-demo</name>
