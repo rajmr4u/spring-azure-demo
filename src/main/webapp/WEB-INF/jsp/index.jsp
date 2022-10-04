@@ -7,8 +7,11 @@
     <title>Sign Up - Application Insights Demo</title>
    <link rel="stylesheet" type="text/css"
 	href="webjars/bootstrap/3.3.7/css/bootstrap.min.css" />
- <c:url value="/css/main.css" var="jstlCss"/>
+<!--<c:url value="/css/main.css" var="jstlCss"/>  
 <link href="${jstlCss}" rel="stylesheet" />
+-->	
+ 
+
 </head>
 
 <body>
